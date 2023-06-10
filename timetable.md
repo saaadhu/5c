@@ -1,5 +1,6 @@
 # Week 12 Jun - 16 Jun
 ## Monday
+
 | Subject | Work |
 |---------|------|
 | Maths   |      |
@@ -13,6 +14,7 @@
 | Games   |      |
 
 ## Tuesday
+
 | Subject | Work |
 |---------|------|
 | Assembly|      |
@@ -26,6 +28,7 @@
 | Tamil   |      |
 
 ## Wednesday
+
 | Subject | Work |
 |---------|------|
 | Maths   |      |
@@ -39,6 +42,7 @@
 | Social  |      |
 
 ## Thursday
+
 | Subject | Work |
 |---------|------|
 | C.Sc    |      |
@@ -51,6 +55,7 @@
 | Club    |      |
 
 ## Friday
+
 | Subject | Work |
 |---------|------|
 | Tamil   |      |
