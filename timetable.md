@@ -1,13 +1,14 @@
-# Week 12 Jun - 16 Jun
+
+# Week 19 Jun - 23 Jun
 ## Monday
 
 | Subject | Work |
 |---------|------|
 | Maths   |      |
-| Social  |      |
+| Hindi   |      |
 | Music   |      |
 | Eng LL  |      |
-| Hindi   |      |
+| Social  |      |
 | Maths   |      |
 | Science |      |
 | Tamil   |      |
@@ -46,10 +47,10 @@
 | Subject | Work |
 |---------|------|
 | C.Sc    |      |
-| Maths   |      |
+| English |      |
 | Tamil   |      |
 | Social  |      |
-| English |      |
+| Maths   |      |
 | Hindi   |      |
 | Science |      |
 | Club    |      |
