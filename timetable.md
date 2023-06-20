@@ -33,7 +33,7 @@
 | Subject | Work |
 |---------|------|
 | Maths   |      |
-| Games   |      |
+| Games   |  ✅ Yoga Mat |
 | Science |      |
 | GK/VE   |      |
 | English |      |
