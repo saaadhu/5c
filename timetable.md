@@ -64,8 +64,8 @@
 | Library |      |
 | English |      |
 | Maths   |      |
-| Hindi R |   Worksheet   |
-| Science |  [CW](doc/20230621ScienceCW.pdf)    |
+| Hindi R |  ✅ Worksheet   |
+| Science |  ✅ [CW](doc/20230621ScienceCW.pdf)    |
 | Hindi   |      |
 | Social  |      |
 
