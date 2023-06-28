@@ -1,4 +1,4 @@
-# Schedule and Tests
+# Tests and Timetable
 ## Upcoming tests
 
 | Subject | Test |
