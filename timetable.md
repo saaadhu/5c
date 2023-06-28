@@ -1,75 +1,11 @@
-# Week 26 Jun - 30 Jun
-## Monday
+# Schedule and Tests
+## Upcoming tests
 
-| Subject | Work |
+| Subject | Test |
 |---------|------|
-| Maths   |      |
-| Hindi   |      |
-| Music   |      |
-| Eng LL  |      |
-| Social  |      |
-| Maths   |      |
-| Science |      |
-| Tamil   |      |
-| Games   |      |
+| Hindi   | Recitation - Lesson 1 - 1st 5 lines |
 
-## Tuesday
-
-| Subject | Work |
-|---------|------|
-| Assembly|      |
-| Social  |      |
-| English |      |
-| Hindi   |      |
-| Art     |      |
-| Maths   |      |
-| English |      |
-| Science |      |
-| Tamil   |      |
-
-## Wednesday
-
-### Poem Writing: Ocean/Time Travel/Being Underwater
-
-| Subject | Work |
-|---------|------|
-| Maths   |      |
-| Games   |      |
-| Science |      |
-| GK/VE   |      |
-| English |      |
-| Hindi   |      |
-| Eng LL  |      |
-| Tamil   |      |
-| Social  |      |
-
-## Thursday
-
-| Subject | Work |
-|---------|------|
-| C.Sc    |      |
-| English |      |
-| Tamil   |      |
-| Social  |      |
-| Maths   |      |
-| Hindi   |      |
-| Science |      |
-| Club    |      |
-
-## Friday
-
-| Subject | Work |
-|---------|------|
-| Tamil   |      |
-| Tamil R |      |
-| Library |      |
-| English |      |
-| Maths   |      |
-| Hindi R |      |
-| Science |      |
-| Hindi   |      |
-| Social  |      |
-
+# Time Table
 # Week 26 Jun - 30 Jun
 ## Monday
 
@@ -177,7 +113,7 @@
 | Subject | Work |
 |---------|------|
 | Maths   |      |
-| Games   |  ✅ Yoga Mat |
+| Games   |      |
 | Science |      |
 | GK/VE   |      |
 | English |      |
@@ -208,8 +144,8 @@
 | Library |      |
 | English |      |
 | Maths   |      |
-| Hindi R |  ✅ Worksheet   |
-| Science |  ✅ [CW](doc/20230621ScienceCW.pdf)    |
+| Hindi R |      |
+| Science |      |
 | Hindi   |      |
 | Social  |      |
 
