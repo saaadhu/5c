@@ -1,9 +1,9 @@
 # Tests and Timetable
 ## Upcoming tests
 
-| Subject | Test |
-|---------|------|
-| Hindi   | Recitation - Lesson 1 - 1st 5 lines |
+| Date  | Subject | Test |
+|-------|---------|------|
+| 3 Jul | Hindi   | Recitation - Lesson 1 - 1st 5 lines |
 
 # Time Table
 # Week 26 Jun - 30 Jun
